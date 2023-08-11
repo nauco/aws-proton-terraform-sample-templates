@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "890e1cf9-fe1c-4bda-884c-3b5363d5dd2f",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-northeast-2:196648750246:environment/backstage-proton-plugins-tutorial-env",
+    "templateArn" : "arn:aws:proton:ap-northeast-2:196648750246:environment-template/fargate-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
